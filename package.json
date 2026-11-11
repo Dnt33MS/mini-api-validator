@@ -1,0 +1,7 @@
+{
+  "name": "validador-api",
+  "version": "1.0.0",
+  "scripts": {
+    "start" : "xdg-open index.html"
+  }
+}
